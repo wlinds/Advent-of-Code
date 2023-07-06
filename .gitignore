@@ -5,6 +5,8 @@
 *day3.txt
 *day5.txt
 *day5b.txt
+*day4.json
+*.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
