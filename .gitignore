@@ -1,11 +1,5 @@
-*day1.txt
-*day1.txt
-*day2.csv
-*day2.txt
-*day3.txt
-*day5.txt
-*day5b.txt
-*day4.json
+*.csv
+*.txt
 *.DS_Store
 
 # Byte-compiled / optimized / DLL files
